@@ -15,6 +15,6 @@ Todas as explicações técnicas se encontram nos comentários da própria aplic
 
 - gerarLista.py:
 
-Esse arquivo permite criar uma lista de contatos para copiar e colar. Ele enumera os nomes para maior facilidade no processo. Ao invés de escrever na mão a lista de contatos genéricos como "contato1, contato2, contato3..." basta subistituir a string "Fulando/so-and-so" por "contato" e alterar a range de (1, até o valor que quiser) para gerar a numeração dos contatos. Após isso, basta executar no console, copiar a lista gerada e colar no array em bot.py para o programa procurar os contatos gerados.
+Esse arquivo permite criar uma lista de contatos para copiar e colar. Ele enumera os nomes para maior facilidade no processo. Ao invés de escrever na mão a lista de contatos genéricos como "contato1, contato2, contato3..." basta subistituir a string "Fulano/so-and-so" por "contato" e alterar a range de (1, até o valor que quiser) para gerar a numeração dos contatos. Após isso, basta executar no console, copiar a lista gerada e colar no array em bot.py para o programa procurar os contatos gerados.
 
 Todas as explicações técnicas se encontram nos comentários da própria aplicação.
